@@ -1,0 +1,37 @@
+enterprise/constants.py
+  s_a6b9c64a35431e::t_ec254a70d3e42e 312-314
+CHANGELOG.rst
+  s_a6b9c64a35431e::t_c1ad8299dd2e7e 20-29
+enterprise/__init__.py
+  s_a6b9c64a35431e::t_d533e00ea90529 5
+enterprise/api/v1/serializers.py
+  s_a6b9c64a35431e::t_cd8952f5a240de 258,262-263
+enterprise/migrations/0250_alter_enterprisecustomer_customer_type_and_more.py
+  s_a6b9c64a35431e::t_f252e1d1d3bd40 1-26
+enterprise/migrations/0251_add_non_production_customer_type.py
+  s_a6b9c64a35431e::t_4b6bc4488629b9 1-32
+enterprise/models.py
+  s_a6b9c64a35431e::t_2f2113884fd80f 60,322-326,688-705
+tests/test_enterprise/api/test_serializers.py
+  s_a6b9c64a35431e::t_76510461632455 35,39,193-216
+tests/test_enterprise/api/test_views.py
+  s_a6b9c64a35431e::t_0f2be24895af17 1531,1606,1704,1787,1892,2319
+tests/test_models.py
+  s_a6b9c64a35431e::t_bd52eaddab4174 45,59,378-407
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "e16b37481b4e0a212045eb20f5c8967eaf25b083",
+  "prompts": {},
+  "sessions": {
+    "s_a6b9c64a35431e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fe4cd940-ebdf-485c-962b-8f922934d050",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "GitHub <noreply@github.com>"
+    }
+  }
+}
