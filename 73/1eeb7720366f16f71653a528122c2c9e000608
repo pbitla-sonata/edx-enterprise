@@ -1,0 +1,19 @@
+enterprise/constants.py
+  s_a6b9c64a35431e::t_ec254a70d3e42e 312-314
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "731eeb7720366f16f71653a528122c2c9e000608",
+  "prompts": {},
+  "sessions": {
+    "s_a6b9c64a35431e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fe4cd940-ebdf-485c-962b-8f922934d050",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "GitHub <noreply@github.com>"
+    }
+  }
+}
