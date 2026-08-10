@@ -10,12 +10,15 @@ enterprise/migrations/0251_add_non_production_customer_type.py
   s_a6b9c64a35431e::t_4b6bc4488629b9 1-32
 CHANGELOG.rst
   s_a6b9c64a35431e::t_c1ad8299dd2e7e 21-23
+  s_4ad5b81b2676d2::t_088887a8961ca2 20
 enterprise/api/v1/serializers.py
   s_a6b9c64a35431e::t_cd8952f5a240de 258,262-263
 tests/test_enterprise/api/test_views.py
   s_a6b9c64a35431e::t_0f2be24895af17 1531,1606,1704,1787,1892,2319
 tests/test_enterprise/api/test_serializers.py
   s_a6b9c64a35431e::t_76510461632455 35,39,193-216
+enterprise/__init__.py
+  s_4ad5b81b2676d2::t_0826ca5a5218bb 5
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -23,6 +26,14 @@ tests/test_enterprise/api/test_serializers.py
   "base_commit_sha": "1ed4029a47f025795a6545026b3c57b576080e45",
   "prompts": {},
   "sessions": {
+    "s_4ad5b81b2676d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8a219745-3348-4d49-8d61-9d5539c12415",
+        "model": "claude-opus-5"
+      },
+      "human_author": "GitHub <noreply@github.com>"
+    },
     "s_a6b9c64a35431e": {
       "agent_id": {
         "tool": "claude",
